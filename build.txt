@@ -1,0 +1,22 @@
+python -m nuitka ^
+  --standalone ^
+  --onefile ^
+  --msvc=latest ^
+  --lto=yes ^
+  --windows-console-mode=disable ^
+  --disable-console ^
+  --windows-icon-from-ico=app_icon.ico ^
+  --include-data-files=app_icon.PNG=app_icon.PNG ^
+  --include-data-files=Montserrat-Medium.ttf=Montserrat-Medium.ttf ^
+  --include-data-files="DeadSpace Unitology.ttf=DeadSpace Unitology.ttf" ^
+  --enable-plugin=pyqt6 ^
+  --include-qt-plugins=platforms,styles,imageformats ^
+  --python-flag=no_site ^
+  --windows-file-version="1.0.0" ^
+  --windows-product-version="1.0.0" ^
+  --product-name="DSR Mod Deploy Manager" ^
+  --file-description="Mod Deploy Manager - Dead Space Remake Mod Deployment Utility" ^
+  --copyright="© 2026 Mark de Rune" ^
+  --company-name="de Rune Community" ^
+  --output-filename="Dead Space Remake Mod Deploy Manager.exe" ^
+  main.py
