@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app_icon.PNG" width="96" alt="MOD DEPLOY MANAGER icon"/>
+<img src="readme_header.PNG" width="640" alt="MOD DEPLOY MANAGER icon"/>
 
 # MOD DEPLOY MANAGER
 
