@@ -184,9 +184,7 @@ License: **PROPRIETARY**
 
 This software is distributed as a personal proprietary utility.
 
-Modification, redistribution, sublicensing, reverse engineering, or commercial reuse of this software or its assets without explicit written permission from the author is prohibited.
-
-© 2026 Mark de Rune. All rights reserved.
+Read LICENSE on the head of this page.
 
 ---
 
